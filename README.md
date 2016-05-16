@@ -1,2 +1,2 @@
-# E-ATOK
+# EITOK
 JustSystems Official
